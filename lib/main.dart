@@ -10,6 +10,8 @@ Color activecolor = const Color.fromARGB(76, 52, 76, 95);
 Color inactivecolor = const Color.fromARGB(120, 72, 107, 136);
 var cond;
 
+// bbbbbbbbbbbbbbb
+
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
   SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp])
